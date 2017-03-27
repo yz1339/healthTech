@@ -1,0 +1,12 @@
+127.0.0.1 - - [26/Mar/2017:23:36:20] "GET /?code=7b8d77b47eec05cd61f47096d164d5ef5c8f71da&state=ncVVqotJqHcRgtqHYeEyhx89pesH7U HTTP/1.1" 200 122 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+You are authorized to access data for the user: Yating Zhan
+TOKEN
+=====
+
+token_type = Bearer
+user_id = 3H8YLR
+refresh_token = 6ac130b2ef83828e15e92631e5747ede0f9736682cb1493b50b017d209b1394d
+access_token = eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIzSDhZTFIiLCJhdWQiOiIyMjhEREMiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJ3aHIgd251dCB3cHJvIHdzbGUgd3dlaSB3c29jIHdhY3Qgd3NldCB3bG9jIiwiZXhwIjoxNDkwNjE0NTgwLCJpYXQiOjE0OTA1ODU3ODB9.Bhkt64zsRDsXNFVCfyxyTWF7NJQ_GYM_VhRhI4SZPzs
+scope = [u'activity', u'weight', u'settings', u'nutrition', u'profile', u'social', u'location', u'sleep', u'heartrate']
+expires_in = 28800
+expires_at = 1490614580.11
